@@ -1,4 +1,5 @@
 <?php
+namespace xshaitt;
 class xsh{
  public function info()
  {
