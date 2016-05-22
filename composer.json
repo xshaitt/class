@@ -4,6 +4,6 @@
     "require": {
     },
     "autoload": {
-      "files": ["vendor/xshaitt/class/class.php"]
+      "files": ["class.php"]
     }
 }
